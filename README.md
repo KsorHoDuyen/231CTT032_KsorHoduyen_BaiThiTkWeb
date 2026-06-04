@@ -1,7 +1,7 @@
-# 231CTT022_VoTranAnhDuc_ThiTKWeb
+
 Bài Thi Thiết kế web
-Mã sinh viên: 22123456
-Họ tên sinh viên: Nguyễn Văn A
+Mã sinh viên: 231CTT032
+Họ tên sinh viên: Ksor Ho Duyen
 
 Mô tả chức năng đã thực hiện:
 - Thiết kế giao diện website Ngày hội Công nghệ Thông tin 2026 bằng HTML5 và CSS3.
